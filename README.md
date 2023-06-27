@@ -9,6 +9,7 @@
 ![iphone](https://github.com/GabrielVictorP/Projeto-Alura-newsletter/assets/133161909/ba35b008-579c-4000-8e1a-f1a8f9f000f4)
 
 ## Tecnologias usada em foco:
+* HTML
 * Tailwind
 
 # O que é newsletter?
