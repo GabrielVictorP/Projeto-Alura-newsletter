@@ -1,6 +1,8 @@
 # Projeto-Alura-newsletter
 ## Projeto feito com a Alura durante o curso de Tailwind CSS: estilizando a sua página com classes utilitárias
-<p align="start">Uma página inspirada em newsletter, aprendendo a usar Tailwind CSS </p>
+Uma página inspirada em newsletter, aprendendo a usar Tailwind CSS
+![Screenshot_3](https://github.com/GabrielVictorP/Projeto-Alura-newsletter/assets/133161909/2ca83c55-265b-4bf2-ba45-657f9c9302f4)
+
 
 ## Layout:
 # min-width: 1024px para tablets e desktop
